@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Stage_1.unity
     guid: 62a63372f857bfa4b945aa8afb9756dc
+  - enabled: 1
+    path: Assets/Scenes/TigerAttack.unity
+    guid: 711eade9358c62f4a8798749f3574ac9
+  - enabled: 1
+    path: Assets/Scenes/Tribe.unity
+    guid: 6e8491e895389284ca0f43e6f387287c
+  - enabled: 1
+    path: Assets/Scenes/EndGame.unity
+    guid: e8d36ec358c417b4dbf1f4b5e1bf179d
   m_configObjects: {}
